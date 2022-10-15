@@ -3,14 +3,14 @@ Par 3
 2 - 3500 cmoo
 3 - 1000 cmoo
 4 - 0
-<5 - Burn 1000 cmoo
+<5 - Burn 10000 cmoo
 
 Par 4
 1 - 50000 cmoo
 2 - 10000 cmoo
 3 - 3500 cmoo 
 5 - 0
-<6 - Burn 1000 cmoo
+<6 - Burn 10000 cmoo
 
 Par 5 
 1 - 100000 cmoo
@@ -18,7 +18,7 @@ Par 5
 3 - 10000 cmoo
 4 - 3500 cmoo
 5 - 0
-<6 - Burn 1000 cmoo
+<6 - Burn 10000 cmoo
 
 Token 
 Buy
